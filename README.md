@@ -10,5 +10,4 @@ List of explanation files:
 connection.py --> In this file you will find the code to connect to a blockchain and retrieve some information.
 tokens.py --> In this file you will find the code to retrieve tokens info using the contract address and ABI.
 transactions.py --> In this file you will find the code so send transactions.
-solidity_basics_loops.sol --> In this file you will find examples of loops and conditionals in solidity with some brief explanations as comments.
-solidity_basics_enum.sol --> In this file you will find examples of enum in solidity with some brief explanations as comments.
+swap.py --> In this file you will the code to place swap treansactions on PancakeSwap!
