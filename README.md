@@ -11,3 +11,5 @@ connection.py --> In this file you will find the code to connect to a blockchain
 tokens.py --> In this file you will find the code to retrieve tokens info using the contract address and ABI.<br>
 transactions.py --> In this file you will find the code so send transactions.<br>
 swap.py --> In this file you will the code to place swap treansactions on PancakeSwap!<br>
+
+You can buy me a coffee if you wish to support me and enjoy the content here! I will greately appreciate it! https://www.buymeacoffee.com/soos3d
