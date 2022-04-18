@@ -1,7 +1,7 @@
 from web3 import Web3
 import json
 
-node_url = 'https://nd-487-536-496.p2pify.com/9bf8d3c8e5a35772710aad15a469f933'    # mainnet endpoint URL
+node_url = 'YOUR NODE URL'    # mainnet endpoint URL
 web3 = Web3(Web3.HTTPProvider(node_url))                                           # establish connection to a ETH mainnet node
 
 # verify the connection is successful (will return true)
