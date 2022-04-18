@@ -22,7 +22,7 @@ swapAddress = "address sending"                               # account swapping
 privateKey = "ACCOUNT SENDING PRIVATE KEY"                    # private key of the account sending crypto
 
 # specify token to buy
-tokenToBuy = web3.toChecksumAddress(CAKE)
+tokenToBuy = web3.toChecksumAddress('TOKEN ADDRESS')
 
 # specifty token to spend (WBNB)
 spend = web3.toChecksumAddress('0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c')
