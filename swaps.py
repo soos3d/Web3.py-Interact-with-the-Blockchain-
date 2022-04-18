@@ -2,8 +2,8 @@ from web3 import Web3
 import json
 import time
 
-node_url = 'https://bsc-dataseed.binance.org/'    # mainnet endpoint URL
-web3 = Web3(Web3.HTTPProvider(node_url))                                           # establish connection to a ETH mainnet node
+node_url = 'YOUR NODE URL'                                              # mainnet endpoint URL
+web3 = Web3(Web3.HTTPProvider(node_url))                                # establish connection to a ETH mainnet node
 
 # verify the connection is successful (will return true)
 if web3.isConnected():                                                          
