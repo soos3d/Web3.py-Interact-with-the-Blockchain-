@@ -25,7 +25,7 @@ tx = {
     'to': account_2,                                # account receiving
     'value': web3.toWei(0.1, 'ether'),              # amount to send 
     'gas' : 200000,                                 # max gas allocated
-    'gasPrice' : web3.toWei('7' , 'gwei')          
+    'gasPrice' : web3.toWei(7 , 'gwei')          
 }
 # sign transaction
 signed_tx = web3.eth.account.signTransaction(tx, privateKey)    # use the private key to sign the transaction
