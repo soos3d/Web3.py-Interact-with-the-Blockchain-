@@ -8,7 +8,7 @@ I will add new files regularly as they are ready.
 List of explanation files:
 
 connection.py --> In this file you will find the code to connect to a blockchain and retrieve some information.
-solidity_basics_arrays.sol --> In this file you will find examples of arrays in solidity with some brief explanations as comments.
+tokens.py --> In this file you will find the code to retrieve tokens info using the contract address and ABI
 solidity_basics_mappings.sol --> In this file you will find examples of mappings in solidity with some brief explanations as comments.
 solidity_basics_loops.sol --> In this file you will find examples of loops and conditionals in solidity with some brief explanations as comments.
 solidity_basics_enum.sol --> In this file you will find examples of enum in solidity with some brief explanations as comments.
