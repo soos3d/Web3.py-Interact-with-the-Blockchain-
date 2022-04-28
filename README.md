@@ -1,5 +1,5 @@
 # Web3.py-Interact-with-the-Blockchain-
-Here you will find the code from my Skillshare class WEB3.py: Interact with the Blockchain 
+Here you will find the code from my Skillshare class WEB3.py: Interact with the Blockchain <br>
 Get 30 days fro free using this link! https://skl.sh/3McEymV
 
 My goal here is to give clear examples to help teach how to interact with the blockchain using python!
