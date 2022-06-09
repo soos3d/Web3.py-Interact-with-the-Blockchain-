@@ -4,6 +4,14 @@ Get 30 days fro free using this link! https://skl.sh/3McEymV
 
 My goal here is to give clear examples to help teach how to interact with the blockchain using python!
 
+To install the web3.py library in your environment run this code:
+
+``` sh
+pip install web3
+```
+
+> **Note** that on Windows, you will need to install the [Microsoft C++ Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/) to make it work.
+
 I will add new files regularly as they are ready.
 
 List of explanation files:
@@ -13,4 +21,3 @@ tokens.py --> In this file you will find the code to retrieve tokens info using 
 transactions.py --> In this file you will find the code so send transactions.<br>
 swap.py --> In this file you will the code to place swap transactions on PancakeSwap!<br>
 
-You can buy me a coffee if you wish to support me and enjoy the content here! I will greately appreciate it! https://www.buymeacoffee.com/soos3d
